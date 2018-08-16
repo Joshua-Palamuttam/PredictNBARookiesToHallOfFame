@@ -12,8 +12,15 @@ Any analysis of data using the algorithms can be found in the [final report](htt
 
 Most of the pictures didn't upload correctly to git, so the final report document has most of the results of our algorthm use
 
-We used about 7 different algorithms
-Lazy learning, Naïve Bayes, Decision Trees and Rules, Regression, Neural Nets and Support Vector Machines, Market Basket Analysis, and Clustering with K-means
+## Algorithms in Project
+We used 7 different algorithms:
+- Lazy learning
+- Naïve Bayes 
+- Decision Trees and Rules
+- Regression 
+- Neural Nets and Support Vector Machines 
+- Market Basket Analysis
+- Clustering with K-means
 
 
 ## Summary of Project
