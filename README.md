@@ -6,9 +6,9 @@ I did this project with my fellow Rose-Hulman peers Michael Domke, and Albert Ud
 We used a single file R-script to do our data analysis which can be found in [ActualScriptWithAllAlgorithms.R](https://github.com/joshpal97/PredictNBARookiesToHallOfFame/blob/master/ActualScriptWithAllAlgorithms.R)
 
 The data that we used was found on Kaggle.com and other various sites that collected a massive amount of NBA data. You can 
-see the data we used in any csv in [data_spreadsheets] (https://github.com/joshpal97/PredictNBARookiesToHallOfFame/tree/master/data_spreadsheets)
+see the data we used in any csv in [data_spreadsheets](https://github.com/joshpal97/PredictNBARookiesToHallOfFame/tree/master/data_spreadsheets)
 
-Any analysis of data using the algorithms can be found in the [final report] (https://github.com/joshpal97/PredictNBARookiesToHallOfFame/blob/master/Final_Report.docx) which you can view raw as a word document
+Any analysis of data using the algorithms can be found in the [final report](https://github.com/joshpal97/PredictNBARookiesToHallOfFame/blob/master/Final_Report.docx) which you can view raw as a word document
 
 Most of the pictures didn't upload correctly to git, so the final report document has most of the results of our algorthm use
 
